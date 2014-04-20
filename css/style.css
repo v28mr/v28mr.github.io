@@ -168,7 +168,7 @@
 		
 	footer
 	{
-		padding-top: 1.5em;
+		padding-top: 1em;
 	}
 
 	br.clear
@@ -269,6 +269,7 @@
 					margin: 0 auto;
 					width: auto;
 				}
+		
 
 	/* Lists */
 
@@ -1187,6 +1188,17 @@
 		text-align: center;
 		color: #fff;
 	}
+	#header-second 
+	{
+		position: relative;
+		margin: 0;
+		background: url('../images/header.jpg');
+		background-size: cover;
+		background-position: center center;
+		padding: 2em 0 2em 0;
+		text-align: center;
+		color: #fff;
+	}
 	
 		#header:after
 		{
@@ -1247,7 +1259,7 @@
 		{
 			background: #fff;
 			text-align: center;
-			padding: 5em 0 5em 0;
+			padding: 4em 0 4em 0;
 			margin: 0;
 		}
 		
@@ -1267,7 +1279,31 @@
 
 		.main > .content
 		{
-			padding: 6em 0 6em 0;
+			padding: 4em 0 4em 0;
+		}
+		
+#header-second .dark
+{
+	position: absolute;
+}
+
+		#first .subcontainer
+		{
+			
+			margin: 0;
+			padding: 0.5em 0 3em 0;
+			text-align: left;
+
+		}
+		#first .subcontainer #logo-taller
+		{
+			float: left;
+			padding: 0 1em 0 0;
+		}
+
+		#first .subcontainer .titulo
+		{
+			font-size: 1.5em;
 		}
 
 			.main > .content > .container
