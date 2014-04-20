@@ -1295,19 +1295,25 @@
 
 			.main > .content.style2
 			{
-				background:	url('images/bgtr.svg') top right no-repeat,
+				background: url('../images/bacan-plataforma.jpg');
+			}
+
+				/*background: url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							url('images/overlay.png'),
-							linear-gradient(45deg, #2E3192, #29ABE2, #0071BC);
-			}
+							linear-gradient(45deg, #2E3192, #29ABE2, #0071BC);*/
+				
+			
 
 			.main > .content.style3
 			{
-				background:	url('images/bgtr.svg') top right no-repeat,
+				background: url('../images/taller-vertical-b.jpg');
+			}
+				/*background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
 							url('images/overlay.png'),
-							linear-gradient(45deg, #006837, #009245, #39B54A);
-			}
+							linear-gradient(45deg, #006837, #009245, #39B54A);*/
+			
 			
 			.main > .content.style4
 			{
