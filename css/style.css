@@ -1296,6 +1296,13 @@
 			.main > .content.style2
 			{
 				background: url('../images/bacan-plataforma.jpg');
+				position: relative;
+				margin: 0;
+				background-size: cover;
+				background-position: center center;
+				padding: 14em 0 14em 0;
+				text-align: left;
+				color: #fff;
 			}
 
 				/*background: url('images/bgtr.svg') top right no-repeat,
@@ -1308,6 +1315,13 @@
 			.main > .content.style3
 			{
 				background: url('../images/taller-vertical-b.jpg');
+				position: relative;
+				margin: 0;
+				background-size: cover;
+				background-position: center center;
+				padding: 14em 0 14em 0;
+				text-align: left;
+				color: #fff;
 			}
 				/*background:	url('images/bgtr.svg') top right no-repeat,
 							url('images/bgbl.svg') bottom left no-repeat,
